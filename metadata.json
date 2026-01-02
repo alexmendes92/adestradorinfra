@@ -1,0 +1,5 @@
+{
+  "name": "marketing",
+  "description": "A modern, mobile-first React application for dog training services featuring a diagnostic quiz, service showcase, and contact profile.",
+  "requestFramePermissions": []
+}
